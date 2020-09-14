@@ -11,4 +11,4 @@ My prefered tech stack is Laravel, Python, Django, Vue, Tailwind, MySQL, Redis
 - Laravel Nova Packages
 - Client work, hire me :)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maherelgamil&show_icons=true)
+Enjoy ;)
