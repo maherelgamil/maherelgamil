@@ -104,16 +104,6 @@ I don't just write code — I build companies.
 
 After 15+ years in the trenches as an engineer and tech lead, I took the leap to found my own products targeting the Arab market — because I saw a real gap: world-class AI tools that don't speak Arabic, and Arabic tools that don't meet world-class standards.
 
-So I'm building the bridge.
-
-| | |
-|---|---|
-| 🌍 **Market** | Arab world — Egypt, Saudi Arabia, Gulf |
-| 🧠 **Thesis** | AI-first products, built natively in Arabic |
-| 🏢 **Entity** | Sudeem LLC (Delaware, USA) |
-| 📍 **Base** | Cairo, Egypt |
-| 🔥 **Status** | Actively shipping & growing |
-
 ---
 
 ### 📊 GitHub Stats
