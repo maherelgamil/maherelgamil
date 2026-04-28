@@ -47,6 +47,33 @@ My focus areas:
 
 ---
 
+### Open Source Contributions
+
+Active contributor to the Laravel ecosystem and PHP community.
+
+**[Laravel Framework](https://github.com/laravel/framework)** — 5 merged PRs
+- [#59904](https://github.com/laravel/framework/pull/59904) Fix EloquentModelDecimalCastingTest assertion across brick/math versions
+- [#59903](https://github.com/laravel/framework/pull/59903) Add detailed `@return` shape to Schema\Builder::getForeignKeys
+- [#59861](https://github.com/laravel/framework/pull/59861) Add enum support to setDefaultDriver in QueueManager, LogManager, and SessionManager
+- [#59860](https://github.com/laravel/framework/pull/59860) Prevent array query params from bypassing signed URL validation
+- [#59801](https://github.com/laravel/framework/pull/59801) Add enum support to ConcurrencyManager driver method
+
+**[Laravel AI](https://github.com/laravel/ai)** — 6 merged PRs
+- [#430](https://github.com/laravel/ai/pull/430) Detect LocalImage MIME type across native gateways
+- [#428](https://github.com/laravel/ai/pull/428) Apply Files::put(name:) override to StorableFile inputs
+- [#427](https://github.com/laravel/ai/pull/427) Memoize ElevenLabs gateway instances
+- [#426](https://github.com/laravel/ai/pull/426) Add test suite for ElevenLabsProvider (audio and transcription)
+- [#425](https://github.com/laravel/ai/pull/425) Add test suite for CohereProvider (embeddings and reranking)
+- [#418](https://github.com/laravel/ai/pull/418) Add test suite for JinaProvider (embeddings and reranking)
+
+**[FilamentPHP](https://github.com/filamentphp/filament)** — 4 merged PRs
+- [#19733](https://github.com/filamentphp/filament/pull/19733) Add configurable temporary URL expiry duration
+- [#4030](https://github.com/filamentphp/filament/pull/4030) Fix issue of model close button with RTL
+- [#3935](https://github.com/filamentphp/filament/pull/3935) Add Arabic translation for notifications
+- [#3886](https://github.com/filamentphp/filament/pull/3886) Fix direction of wizard steps description for RTL
+
+---
+
 ### Tech Stack
 
 **Languages & Frameworks**
