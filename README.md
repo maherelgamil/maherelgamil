@@ -44,6 +44,7 @@ My focus areas:
 |---|---|
 | **[periscope](https://github.com/maherelgamil/periscope)** | Laravel package for building multi-tenant SaaS applications with tenant isolation and management |
 | **[rocketphp](https://github.com/maherelgamil/rocketphp)** | Lightweight PHP framework for rapid API development with modern patterns and clean architecture |
+| **[csvops](https://github.com/maherelgamil/csvops)** | Efficient CSV processing toolkit for large datasets with streaming and transformation capabilities |
 
 ---
 
