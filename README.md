@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Maher El Gamil 👋</h1>
+<h1 align="center">Hey, I'm Maher El Gamil</h1>
 
 <p align="center">
-  <em>Senior Software Engineer · Ex-CTO · Founder · 15+ years building production systems at scale</em>
+  <em>Senior Software Engineer · CTO · Founder · 15+ years building production systems at scale</em>
 </p>
 
 <p align="center">
@@ -14,47 +14,47 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
 I design and architect **production-grade backend systems** and **AI-powered applications** built for scale.
 
 With **15+ years** of hands-on engineering experience, I've built and scaled SaaS platforms, distributed systems, and AI-driven workflows serving real-world production environments — from startups to CTO-level leadership.
 
 My focus areas:
-- 🏗️ **System architecture & scalable design**
-- ⚡ **High-performance backend services** (Laravel, Python, NestJS)
-- 🏢 **Multi-tenant SaaS infrastructure**
-- 🤖 **LLM integration & AI workflow orchestration**
-- 🔒 **Reliability, observability & production resilience**
+- **System architecture & scalable design**
+- **High-performance backend services** (Laravel, Python, NestJS)
+- **Multi-tenant SaaS infrastructure**
+- **LLM integration & AI workflow orchestration**
+- **Reliability, observability & production resilience**
 
 ---
 
-### 🚀 What I'm Building
+### What I'm Building
 
 | Product | Description |
 |---|---|
-| 🤖 **[Sudeem](https://sudeem.ai)** | Arabic-first AI automation platform — AI agents that handle real business operations, not just conversations |
-| 🍋 **[Lymonah](https://lymonah.com)** | SaaS platform for selling digital products & building online academies for the Arab market |
+| **[Sudeem](https://sudeem.ai)** | Arabic-first AI automation platform — AI agents that handle real business operations, not just conversations |
+| **[Lymonah](https://lymonah.com)** | SaaS platform for selling digital products & building online academies for the Arab market |
 
 ---
 
-### 💼 Experience Highlights
+### Experience Highlights
 
 ```
-🟣 Sudeem           →  Lead Software Engineer         (Oct 2025 – Present)
-🟠 MSAAQ            →  CTO                            (Sep 2023 – Sep 2025)
-🟠 MSAAQ            →  Software Engineer              (Jan 2022 – Sep 2023)
-🔵 MedMisr          →  Software Engineer Tech Lead    (Apr 2018 – Aug 2021)
-🟡 Basket.jo        →  Senior Backend Engineer        (Apr 2019 – Jul 2020)
-⚫ Cave360 (DE)     →  Senior Full Stack Developer    (Jan 2017 – Mar 2019)
-🟢 Midade           →  Senior Full Stack Developer    (Feb 2014 – Apr 2017)
+Sudeem           →  Lead Software Engineer         (Oct 2025 – Present)
+MSAAQ            →  CTO                            (Sep 2023 – Sep 2025)
+MSAAQ            →  Software Engineer              (Jan 2022 – Sep 2023)
+MedMisr          →  Software Engineer Tech Lead    (Apr 2018 – Aug 2021)
+Basket.jo        →  Senior Backend Engineer        (Apr 2019 – Jul 2020)
+Cave360 (DE)     →  Senior Full Stack Developer    (Jan 2017 – Mar 2019)
+Midade           →  Senior Full Stack Developer    (Feb 2014 – Apr 2017)
 ```
 
 > Served clients and companies across **Egypt, Saudi Arabia, Jordan, Germany**, and the broader Arab market.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Frameworks**
 
@@ -98,7 +98,7 @@ My focus areas:
 
 ---
 
-### 🏗️ Builder's Corner
+### Builder's Corner
 
 I don't just write code — I build companies.
 
@@ -106,7 +106,7 @@ After 15+ years in the trenches as an engineer and tech lead, I took the leap to
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=maherelgamil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Maher's GitHub stats"/>
@@ -119,13 +119,13 @@ After 15+ years in the trenches as an engineer and tech lead, I took the leap to
 
 ---
 
-### 💼 Open To
+### Open To
 
-- 🧑‍💻 **Senior Backend Engineer / Tech Lead** roles — remote, Arab market focus
-- 🤝 **Consulting** on Laravel architecture, multi-tenant SaaS, Stripe Connect & AI integrations
-- 🌱 **Partnerships** around AI products for Arabic-speaking users
+- **Senior Backend Engineer / Tech Lead** roles — remote, Arab market focus
+- **Consulting** on Laravel architecture, multi-tenant SaaS, Stripe Connect & AI integrations
+- **Partnerships** around AI products for Arabic-speaking users
 
-📬 **Reach out:** [LinkedIn](https://www.linkedin.com/in/maherelgamil) · [maherelgamil@gmail.com](mailto:maherelgamil@gmail.com) · [maherelgamil.com](https://maherelgamil.com)
+**Reach out:** [LinkedIn](https://www.linkedin.com/in/maherelgamil) · [maherelgamil@gmail.com](mailto:maherelgamil@gmail.com) · [maherelgamil.com](https://maherelgamil.com)
 
 ---
 
