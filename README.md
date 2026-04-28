@@ -47,22 +47,6 @@ My focus areas:
 
 ---
 
-### Experience Highlights
-
-```
-Sudeem           →  Lead Software Engineer         (Oct 2025 – Present)
-MSAAQ            →  CTO                            (Sep 2023 – Sep 2025)
-MSAAQ            →  Software Engineer              (Jan 2022 – Sep 2023)
-MedMisr          →  Software Engineer Tech Lead    (Apr 2018 – Aug 2021)
-Basket.jo        →  Senior Backend Engineer        (Apr 2019 – Jul 2020)
-Cave360 (DE)     →  Senior Full Stack Developer    (Jan 2017 – Mar 2019)
-Midade           →  Senior Full Stack Developer    (Feb 2014 – Apr 2017)
-```
-
-> Served clients and companies across **Egypt, Saudi Arabia, Jordan, Germany**, and the broader Arab market.
-
----
-
 ### Tech Stack
 
 **Languages & Frameworks**
