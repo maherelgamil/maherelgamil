@@ -38,6 +38,15 @@ My focus areas:
 
 ---
 
+### Open Source
+
+| Project | Description |
+|---|---|
+| **[periscope](https://github.com/maherelgamil/periscope)** | Laravel package for building multi-tenant SaaS applications with tenant isolation and management |
+| **[rocketphp](https://github.com/maherelgamil/rocketphp)** | Lightweight PHP framework for rapid API development with modern patterns and clean architecture |
+
+---
+
 ### Experience Highlights
 
 ```
